@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Benign</folder>
+	<filename>Mass-Training_P_00419_LEFT_CC_0.png</filename>
+	<path>H:\Mommogram_Dataset_images\Detection\MG_Imges_resized\Both_B_M\Benign\Mass-Training_P_00419_LEFT_CC_0.png</path>
+	<source>
+		<database>Korea Hospital</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>334</ymin>
+			<xmax>329</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>346</ymin>
+			<xmax>178</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

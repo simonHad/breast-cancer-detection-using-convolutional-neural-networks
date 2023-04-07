@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>malignant</folder>
+	<filename>Mass-Training_P_00001_LEFT_CC_0.png</filename>
+	<path>H:\Mommogram_Dataset_images\Detection\MG_Imges_resized\malignant\Mass-Training_P_00001_LEFT_CC_0.png</path>
+	<source>
+		<database>St.Gebrel Hospital</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>403</ymin>
+			<xmax>131</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>benign</folder>
+	<filename>Mass-Training_P_00027_RIGHT_CC_0.png</filename>
+	<path>H:\Mommogram_Dataset_images\Detection\MG_Imges_resized\benign\Mass-Training_P_00027_RIGHT_CC_0.png</path>
+	<source>
+		<database>Grum Hospital</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>452</ymin>
+			<xmax>490</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>
