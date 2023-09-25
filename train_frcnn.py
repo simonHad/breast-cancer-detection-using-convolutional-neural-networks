@@ -118,7 +118,7 @@ else:
 img_input = Input(shape=input_shape_img)
 roi_input = Input(shape=(None, 4))
 
-# define the base network (resnet here, can be VGG, Inception, etc)
+# define the base network (Own_base_network here, can be VGG, resnet, Inception, etc)
 shared_layers = nn.nn_base(img_input, trainable=True)
 
 # define the RPN, built on the base layers
